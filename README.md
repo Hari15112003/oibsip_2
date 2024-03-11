@@ -9,6 +9,7 @@ Users can perform complex calculations with ease, making it a valuable tool for 
 
 🔢 Advanced Operations: 
           In addition to simple addition, subtraction, multiplication, and division, the Calculator App supports advanced mathematical operations like exponentiation, square root, trigonometric functions, and more. It's a one-stop solution for a wide range of mathematical needs.
+          
 🔄 History and Memory: 
           The app stores a history of past calculations, allowing users to review and reuse them whenever needed. Furthermore, it offers memory functionality, enabling users to store and recall temporary values during their calculations.
 
